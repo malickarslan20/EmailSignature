@@ -18,7 +18,7 @@ const EmailSignature = () => {
       </div>
 
       {/* Contact Details Section */}
-      <div className="mt-6 space-y-1 text-center sm:text-left ml-24">
+      <div className="mt-6 space-y-1 text-center sm:text-left ml-24 sm:ml-16">
         <p className="text-[#1d2c38] font-bold text-lg">Gary Dmitriev</p>
         <p className="text-sm">gary@crestpointadvisors.com</p>
         <p className="text-sm">347-351-7492</p>
