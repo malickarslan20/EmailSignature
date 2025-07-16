@@ -6,7 +6,7 @@ const EmailSignature = () => {
       {/* Top Section: Logo and Company Name */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-start gap-4">
         <img
-          src="/CrestPointLogo.png" // Make sure this path is correct
+          src="\CrestPointLogo.png" // Make sure this path is correct
           alt="CrestPoint Logo"
           className="w-20 h-20 object-contain ml-0 pl-0 sm:mx-0"
         />
